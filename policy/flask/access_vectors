@@ -835,6 +835,7 @@ class binder
 	call
 	set_context_mgr
 	transfer
+	setup_report
 }
 
 class netlink_iscsi_socket
